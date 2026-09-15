@@ -1,0 +1,16 @@
+body            {background-color: rosybrown;}
+header          {height: 50px; background-color: palevioletred;}
+nav             {height: 55px; background-color: rgb(174, 223, 253);}
+main            {height: 700px; background-color: cadetblue; padding: 1;}
+article         {height: 650px; background-color: rgb(160, 107, 131); margin: 19px; padding: 8px;}
+h1              {color:cornflowerblue; rotate: 357deg}
+p               {color:rgb(150, 200, 243); rotate: 2deg}
+img             {float: right; opacity: 70%; filter: blur(2px)}
+img:hover       {float: right; opacity: 100%; filter: blur(0px)}
+ol              {color:rgb(219, 187, 187);}
+ul              {color:rgb(219, 187, 187);}
+
+nav a:link      {border-radius: 5px 5px 5px 5px; background-color:rgb(218, 143, 186); text-decoration: none; color:rgb(0, 0, 0); padding-left: 5pt; padding-right: 5pt; padding-top: 2pt; padding-bottom: 2pt; font-size: 17px;}
+nav a:visited   {border-radius: 5px 5px 5px 5px; background-color:rgb(218, 143, 186); text-decoration: none; color:rgb(0, 0, 0); padding-left: 5pt; padding-right: 5pt; padding-top: 2pt; padding-bottom: 2pt; font-size: 17px;}
+nav a:active    {border-radius: 5px 5px 5px 5px; background-color:rgb(218, 143, 186); text-decoration: none; color:rgb(0, 0, 0); padding-left: 5pt; padding-right: 5pt; padding-top: 2pt; padding-bottom: 2pt; font-size: 17px;}
+nav a:hover     {border-radius: 5px 5px 5px 5px; background-color:rgb(133, 83, 111); text-decoration: none; color:rgb(255, 255, 255); padding-left: 10pt; padding-right: 10pt; padding-top: 4pt; padding-bottom: 4pt; font-size: 16px;}
